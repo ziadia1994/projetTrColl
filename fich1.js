@@ -3,6 +3,7 @@
 
 
 Alert("oki")
-alert("2�me changement")
+alert("2éme changement")
+alert("modifié depuis git")
 
 </script>
